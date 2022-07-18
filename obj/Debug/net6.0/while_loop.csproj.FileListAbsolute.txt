@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\bin\Debug\net6.0\while_loop.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\bin\Debug\net6.0\while_loop.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\bin\Debug\net6.0\while_loop.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\bin\Debug\net6.0\while_loop.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\bin\Debug\net6.0\while_loop.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\refint\while_loop.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\while_loop.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\while_loop\obj\Debug\net6.0\ref\while_loop.dll
